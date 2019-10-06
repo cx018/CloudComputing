@@ -12,9 +12,9 @@
 
 ## Xshell登录腾讯云实例
 
-![](./image/3.png)
 
-![](./image/4.png)
+
+
 
 
 
