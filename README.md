@@ -12,7 +12,9 @@
 
 ## Xshell登录腾讯云实例
 
+![](./image/3.png)
 
+![](./image/4.png)
 
 
 
@@ -26,7 +28,7 @@
 
 ## 注册GitHub账号：https://github.com/
 
-
+![](./image/5.png)
 
 
 
@@ -56,13 +58,13 @@
 
 ## 自行安装VMware WorkStation
 
-
+![](./image/10.png)
 
 
 
 ## 在VMware WorkStation安装CentOS操作系统
 
-
+![](./image/11.png)
 
 
 
