@@ -31,35 +31,35 @@
 
 
 
-![](E:\CouldComputing\实验二\image\3.png)
+![](.\image\3.png)
 
-![](E:\CouldComputing\实验二\image\4.png)
-
-
-
-![](E:\CouldComputing\实验二\image\5.png)
+![](.\image\4.png)
 
 
 
-![](E:\CouldComputing\实验二\image\6.png)
+![](.\image\5.png)
 
 
 
-![](E:\CouldComputing\实验二\image\7.png)
+![](.\image\6.png)
 
 
 
-![](E:\CouldComputing\实验二\image\8.png)
-
-![](E:\CouldComputing\实验二\image\9.png)
+![](.\image\7.png)
 
 
 
-![](E:\CouldComputing\实验二\image\10.png)
+![](.\image\8.png)
 
-![](E:\CouldComputing\实验二\image\11.png)
+![](.\image\9.png)
 
-![](E:\CouldComputing\实验二\image\12.png)
+
+
+![](.\image\10.png)
+
+![](.\image\11.png)
+
+![](.\image\12.png)
 
 ####  
 
@@ -69,9 +69,9 @@
 
 
 
-![](E:\CouldComputing\实验二\image\13.png)
+![](.\image\13.png)
 
-![](E:\CouldComputing\实验二\image\14.png)
+![](.\image\14.png)
 
 
 
@@ -83,34 +83,34 @@
 
 
 
-![](E:\CouldComputing\实验二\image\24.png)
+![](.\image\24.png)
 
 ##  5.安装WordPress以及完成相关配置
 
 ###  (1)为WordPress创建一个MySQL数据库
 
-![](E:\CouldComputing\实验二\image\16.png)
+![](.\image\16.png)
 
 
 
 ### (2)安装WordPress
 
-![](E:\CouldComputing\实验二\image\17.png)
+![](.\image\17.png)
 
-![](E:\CouldComputing\实验二\image\26.png)
+![](.\image\26.png)
 
-![](E:\CouldComputing\实验二\image\18.png)
+![](.\image\18.png)
 
 
 
 ###  (3)配置WordPress
 
-![](E:\CouldComputing\实验二\image\19.png)
+![](.\image\19.png)
 
-![](E:\CouldComputing\实验二\image\25.png)
+![](.\image\25.png)
 
 ### (4)通过Web界面进一步配置WordPress
 
-![](E:\CouldComputing\实验二\image\20.png)
+![](.\image\20.png)
 
-![](E:\CouldComputing\实验二\image\22.png)
+![](.\image\22.png)
