@@ -17,13 +17,13 @@
 
 
 
-![](E:\CouldComputing\实验二\image\1.png)
+![](./image/1.png)
 
 
 
-![](E:\CouldComputing\实验二\image\2.png)
+![](.\image\2.png)
 
-![](E:\CouldComputing\实验二\image\23.png)
+![](.\image\23.png)
 
 
 
