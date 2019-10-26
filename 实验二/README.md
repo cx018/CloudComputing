@@ -81,7 +81,7 @@
 
 ![](E:\CouldComputing\实验二\image\27.png)
 
-!(E:\CouldComputing\实验二\image\15.png)
+
 
 ![](E:\CouldComputing\实验二\image\24.png)
 
