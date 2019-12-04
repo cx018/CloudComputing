@@ -20,7 +20,7 @@ sudo systemctl enable docker
 
 docker version
 
-
+![](./image/2.png)
 
 ## 2.Docker加载CentOS镜像
 
@@ -48,9 +48,9 @@ docker exec -it 2aeb8feb0e7e /bin/bash
 
 ## 3.容器中安装wordpress
 
-#### 过程同实验2
+#### 过程同实验2，但不需要sudo命令
 
-
+![](./image/3.png)
 
 ## 4.推送带有wordpress的镜像
 
