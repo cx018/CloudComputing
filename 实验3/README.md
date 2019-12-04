@@ -44,6 +44,10 @@ docker ps
 
 #### 进入容器前台
 
+##### docker exec -it 容器ID /bin/bash
+
+例：
+
 docker exec -it 2aeb8feb0e7e /bin/bash
 
 
@@ -62,7 +66,11 @@ docker exec -it 2aeb8feb0e7e /bin/bash
 
 #### 将容器生成镜像
 
-docker commit -a "cx018" -m "wordpress on centos7" 2aeb8feb0e7e cx018/centos
+##### docker commit -a “docker hub用户名” -m "提交描述" 容器id  镜像名:tag标签
+
+##### 所生成的镜像名由   "Docker用户名/Docker仓库名组成"
+
+docker commit -a "cx018" -m "wordpress on centos7" 2aeb8feb0e7e cx018/centos:v1
 
 #### 登录Docker
 
