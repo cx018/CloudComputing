@@ -70,6 +70,8 @@ docker exec -it 2aeb8feb0e7e /bin/bash
 
 ##### 所生成的镜像名由   "Docker用户名/Docker仓库名组成"
 
+例：
+
 docker commit -a "cx018" -m "wordpress on centos7" 2aeb8feb0e7e cx018/centos:v1
 
 #### 登录Docker
