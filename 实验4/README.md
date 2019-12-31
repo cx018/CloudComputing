@@ -44,6 +44,8 @@ sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 
 ##### 到目前为止，全部节点相同步骤都已配置完毕，复制虚拟机
 
+![](./image/4.png)
+
 
 
 
@@ -53,6 +55,8 @@ sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 systemctl start firewalld
 
 systemctl enable firewalld
+
+
 
 
 
@@ -68,6 +72,8 @@ sudo firewall-cmd –reload
 
 
 
+
+
 ##### mon1节点防火墙
 
 sudo firewall-cmd --zone=public --add-port=6789/tcp --permanent
@@ -75,10 +81,14 @@ sudo firewall-cmd --reload
 
 
 
+
+
 ##### osd1节点防火墙
 
 sudo firewall-cmd --zone=public --add-port=6800-7300/tcp --permanent
 sudo firewall-cmd --reload  
+
+
 
 
 
@@ -100,6 +110,8 @@ sudo chown ceph:ceph /var/local/osd2
 
 
 
+
+
 #### 设置免密登录ssh
 
 su - cephuser
@@ -111,6 +123,8 @@ ssh-keygen
 
 
 ![](./image/2.png)
+
+
 
 
 
