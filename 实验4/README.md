@@ -258,5 +258,7 @@ sudo chmod 644 /etc/ceph/ceph.client.admin.keyring
 
 ##### 检查集群状态
 
+sudo ceph health
+
 sudo ceph -s
 
